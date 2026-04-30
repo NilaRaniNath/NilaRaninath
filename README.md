@@ -4,7 +4,12 @@
 
 I am a passionate Full Stack Web Developer specializing in the MERN Stack. I love building clean, responsive user interfaces and solving complex problems with efficient code. Currently, I am focused on creating scalable web applications and constantly exploring new technologies to enhance user experiences.
 
-Skills: NEXT JS / REACT / JS / HTML / Tailwind CSS
+Skills: 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 - 🔭 I’m currently working on this page. 
 
